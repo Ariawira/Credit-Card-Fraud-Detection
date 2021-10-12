@@ -4,4 +4,4 @@ Di Repositori ini saya telah membangun sistem Deteksi Penipuan Kartu Kredit meng
 
 Untuk proyek ini, saya telah menggunakan model Regresi Logistik.
 
-Dataset File :
+Dataset File : https://www.kaggle.com/mlg-ulb/creditcardfraud
